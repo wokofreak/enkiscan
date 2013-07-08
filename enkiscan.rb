@@ -2,7 +2,7 @@
 #
 # ENKI BOX PORT SCANNER
 #
-# Copyright (c) 2012 Enki Box (y.b@tarasecure.com - Youssef Kourosh BEN NASER)
+# Copyright (c) 2012 Enki Box (y.b@tarasecure.com - Youssef Kourosh BN)
 #
 # This program is the property of TARA SECURITY - ENKI BOX - Kouros.Darius
 # You may not provide it for free or use it for personal purpose
