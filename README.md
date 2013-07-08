@@ -9,3 +9,14 @@ Ruby scanner as an alternative to nmap - project in POC state.
 Views and comments are welcome.
 
 Enjoy!
+
+enkiscan.rb -h for help
+
+
+dnscheck
+========
+
+Ruby DNS checker that generate a pdf file listing all name and its details retrieve by the dnschecker.
+
+dnscheck.rb -h for help
+
