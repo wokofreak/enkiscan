@@ -2,7 +2,7 @@
 #
 # ENKI BOX PORT SCANNER
 #
-# Copyright (c) 2012 Enki Box (y.b@tarasecure.com - Youssef Kourosh BN)
+# Copyright (c) 2012 Enki Box (contact.[at].tarasecure.com - Y Kourosh BN)
 #
 # This program is the property of TARA SECURITY - ENKI BOX - Kouros.Darius
 # You may not provide it for free or use it for personal purpose
@@ -25,7 +25,7 @@ puts
 puts "Starting 'enkiscan' #{release}"
 puts "**********************************************************************************"
 puts "* - enkiscan - is a part of the ENKI BOX project - [http://product.enkibox.com/] *"
-puts "*              Copyright (c) 2012 Enki Box (y.b .at. tarasecure.com)             *"
+puts "*              Copyright (c) 2012 Enki Box (contact .at. tarasecure.com)             *"
 puts "**********************************************************************************"
 puts "*                            Enter -h option for help                            *"
 puts "**********************************************************************************"

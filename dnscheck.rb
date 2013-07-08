@@ -2,9 +2,9 @@
 #
 # DNSChecker made in the scope of some project
 #
-# Copyright (c) 2013 DNSChecker (y.b@tarasecure.com - Youssef Kourosh BN)
+# Copyright (c) 2013 DNSChecker (contact.[at].tarasecure.com - Y Kourosh BN)
 #
-# This program is the property of TARA SECURITY - Kouros.Darius - Youssef BN.
+# This program is the property of TARA SECURITY - Kouros.Darius - Y BN.
 # You may not provide it for free or use it for personal purpose
 #
 # We provide ANY WARRANTY, ANY SUPPORT for a use which is not compliant to our policies
