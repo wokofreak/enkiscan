@@ -109,7 +109,7 @@ def DNS_pdf_it()
 			repeat :all do
 				stroke_horizontal_rule
 				move_down(3)
-				text "CACF Confidential", { :size => 8, :style => :italic }
+				text "Confidential", { :size => 8, :style => :italic }
 			end
 			number_pages "<page>/<total>", { :start_count_at => 0, :page_filter => :all, :at => [bounds.right - 50, 0], :align => :right, :size => 8 }
 		end
